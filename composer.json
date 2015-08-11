@@ -1,0 +1,9 @@
+{
+    "name": "rjacobsen/bootstrap-colorpicker",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/rjacobsen2012/bootstrap-colorpicker"
+        }
+    ]
+}
